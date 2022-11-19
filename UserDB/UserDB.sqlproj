@@ -70,5 +70,6 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="Script_PostDeployment.sql" />
+    <None Include="UserDB.publish.xml" />
   </ItemGroup>
 </Project>
