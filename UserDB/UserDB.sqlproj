@@ -68,4 +68,7 @@
     <Build Include="dbo\StoredProcedures\spUser_Insert.sql" />
     <Build Include="dbo\StoredProcedures\spUser_Update.sql" />
   </ItemGroup>
+  <ItemGroup>
+    <None Include="Script_PostDeployment.sql" />
+  </ItemGroup>
 </Project>
