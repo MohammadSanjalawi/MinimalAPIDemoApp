@@ -2,6 +2,6 @@
 	@Id int
 As
 begin
- delete from db.[user]
+ delete from dbo.[user]
  where Id = @Id;
 end
